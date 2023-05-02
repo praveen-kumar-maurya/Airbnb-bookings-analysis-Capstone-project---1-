@@ -18,7 +18,7 @@ This project demonstrated the importance of data analysis in comprehending and e
 
 **Airbnb dataset is used to understand the factors that impact booking rates and customer satisfaction, in order to identify areas for improvement and optimize revenue.**
 
-#### **Business Objective**
+# **Business Objective**
 
 Business objective for performing an exploratory data analysis (EDA) on the Airbnb dataset is to identify opportunities to improve the user experience and drive revenue growth. By analyzing patterns and trends in the data, the company can gain insights into customer preferences and behaviors, as well as identify potential areas for improvement in terms of pricing and availability. This information can inform strategic decisions around marketing, product development, and service enhancements to ultimately increase bookings, customer satisfaction, and profitability.
 
