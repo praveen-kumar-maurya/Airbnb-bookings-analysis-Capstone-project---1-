@@ -59,13 +59,11 @@ Based on the insights gained from the EDA of the Airbnb NYC 2019 dataset, here a
 1.   Increase revenue:
 
 *   Analyze the pricing trends in different neighborhoods based on different criterions and adjust the pricing strategy to maximize revenue.
-*   Offer discounts during the off-season to attract more guests.
 *   Provide additional amenities or services to increase the perceived value of the listing and justify higher prices.
 
 
 2.   Improve occupancy rate:
 
-*    Offer special deals or promotions during low occupancy periods to attract more guests.
 *   Improve the listing description and photos to better showcase the property and increase its appeal to potential guests.
 
 3. Enhance guest experience:
