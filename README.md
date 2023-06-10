@@ -4,7 +4,7 @@
 
 Airbnb is a platform that allows people to rent out their homes or spare rooms to travelers as a form of accommodation. Founded in 2008, Airbnb has grown rapidly and is now available in over 220 countries and regions around the world. The company aims to provide a unique and personalized travel experience for its users by offering a variety of lodging options, from shared rooms to entire homes and apartments. Airbnb has disrupted the traditional hospitality industry by providing an alternative form of accommodation that often offers more affordable and authentic options for travelers. The analysis of data on millions of listings available on Airbnb is an essential aspect for the company.
 
-# **Dataset Link- -**
+# **Dataset Link**
 https://www.kaggle.com/code/upadorprofzs/understand-your-data-airbnb-reservations/input?select=AB_NYC_2019.csv
 
 # **Project Summary -**
