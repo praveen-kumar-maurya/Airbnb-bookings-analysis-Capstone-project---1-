@@ -1,4 +1,4 @@
-# Airbnb-bookings-analysis-Capstone-project---1-
+# Airbnb-bookings-analysis-Capstone-project-1
 
 # **About Airbnb**
 
