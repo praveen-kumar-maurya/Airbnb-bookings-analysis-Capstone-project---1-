@@ -28,29 +28,35 @@ Business objective for performing an exploratory data analysis (EDA) on the Airb
 # **Conclusion**
 
 
+
 1.  The properties with the names Hillside Hotel, Home away from home, and New york Multi-unit building are the top 3 most listed properties according to property name.
 2.   The top 5 host who have maximum listings are Michael, David, Sonder, John, and Alex.
 3.   The most number of properties listed are present in Manhattan and Brooklyn followed by Queens, Bronx, and Staten Island.
-4.   The neighbourhood with most properties listed are Williamsburg and Bedford-Stuyvesant followed by Harlem, Bushwich, and Upper West Side.
-5.   Manhattan has the highest density of properties.
-6.   Entire home/apt is most preferred type of room by customers followed by Private room, and Shared room.
-7.   Most number of properties fall in the category of medium price property, followed by few properties in low price category and very few properties are in high price category.
-8.   Few properties have recieved large number of reviews whereas a lot of properties have recieved very few reviews as low as 1.
-9.   There are many properties which have not been reviewed from 2011 to 2017. Most of the properties have been reviewed in year 2019.
-10.   Sonder is the best host corresponding to neighbourhood_group Manhattan according to number of properties handeled.
-11.   Sonder is the best host corresponding to room type Entire home/apt. Followed by David for Private room and Sergii for shared room. If a customer requires Entire home/apt in Manhatten, Solder should be recommended to customer.
-12.  Michael is the best host corresponding to room type Medium. Followed by Kazuya for Low and Henry for High. Michael is also the best host in Brooklyn. So, if a customer want properties in Brooklyn in the medium price category then Michael should be recommended.
-13.   Michael is the best host in terms of the total number of reviews recieved by him followed by David, and John.This makes sense because Michael is also the best host in Brooklyn based on the number of properties handeled by him. Since he handeles a lot of properties so he can have highest total number of reviews.
-14.   Dona is the best host in terms of the average number of reviews followed by Asa, and Dennis & Naoka.Dona is the best host in terms of effectively handling a property.
-15.   Manhattan has highest number of properties listed as room type Entire home/apt followed by Brooklyn for room type Private room. The shared room is least in number for all the neighbourhood groups.
-16.   When comparing the number of properties for low price category with respect to total number of properties for a respective neighbourhood group, Manhatten has least number of properties for low price category. Also it has the highest number of high price category in all neighbourhood groups. This shows that Manhatten is the costliest neighbourhood group to live in NYC.
-17.   In Private room type Bedford-Stuyvesant	has highest number of properties as 2033, for Entire home/apt room type Williamsburg has highest number of properties as 1889, and for Shared room type	Hell's Kitchen has highest number of properties as 99. 		
-18.   In Medium	price category Williamsburg	has highest number of properties as 3740, for Low	price category category Bedford-Stuyvesant	has highest number of properties as 661, and for High	price category Upper West Side	has highest number of properties as 18.
-19.   Based on average price Fort Wadsworth is the most costliest neighbourhood in all of the neighbourhood followed by Woodrow, Tribeca, Sea Gate, and Riverdale.
-20.   Based on average price Bull's Head is the least costliest neighbourhood in all of the neighbourhood followed by Hunts Point, Tremont, Soundview, and New Drop.
-21.   Based on average number of reviews Silver Lake is the most reviewed neighbourhood in all of the neighbourhood followed by East Elmhurst, Richmondtown, Elitingville, and Mount Eden.
-22.   The heatmap and pairplot indicate that there is no significant correlation between the numerical columns of the dataset. The values in the numerical columns appear to be independent of each other and not strongly related to the values in the other columns.
-23.   Overall, the Airbnb NYC 2019 dataset provides valuable insights into the short-term rental market in New York City. The dataset can be used by hosts to better understand their competition and adjust their pricing strategy, improve occupancy rate, and enhance customer experience.
+4.   No. of properties in Manhatten(highest) are 5702% higher than staten island(least).
+5.   The neighbourhood with most properties listed are Williamsburg and Bedford-Stuyvesant followed by Harlem, Bushwich, and Upper West Side.
+6.   Manhattan has the highest density of properties.
+7.   Entire home/apt is most preferred type of room by customers followed by Private room, and Shared room.
+8.   Entire home apt(highest) has 2095% higher properties than shared rooms(least).
+9.   Most number of properties fall in the category of medium price property, followed by few properties in low price category and very few properties are in high price category.
+10.   Few properties have recieved large number of reviews whereas a lot of properties have recieved very few reviews as low as 1.
+11.   There are many properties which have not been reviewed from 2011 to 2017. Most of the properties have been reviewed in year 2019.
+12. Only 72% of the total properties have recieved any review in the last year i.e 2019.
+13.   Sonder is the best host corresponding to neighbourhood_group Manhattan according to number of properties handeled.
+14.   Sonder is the best host corresponding to room type Entire home/apt. Followed by David for Private room and Sergii for shared room. If a customer requires Entire home/apt in Manhatten, Solder should be recommended to customer.
+15.   Michael is the best host corresponding to room type Medium. Followed by Kazuya for Low and Henry for High. Michael is also the best host in Brooklyn. So, if a customer want properties in Brooklyn in the medium price category then Michael should be recommended.
+16.   Michael is the best host in terms of the total number of reviews recieved by him followed by David, and John.This makes sense because Michael is also the best host in Brooklyn based on the number of properties handeled by him. Since he handeles a lot of properties so he can have highest total number of reviews.
+17.   Dona is the best host in terms of the average number of reviews followed by Asa, and Dennis & Naoka.Dona is the best host in terms of effectively handling a property.
+18.   Manhattan has highest number of properties listed as room type Entire home/apt followed by Brooklyn for room type Private room. The shared room is least in number for all the neighbourhood groups.
+19.   When comparing the number of properties for low price category with respect to total number of properties for a respective neighbourhood group, Manhatten has least number of properties for low price category. Also it has the highest number of high price category in all neighbourhood groups. This shows that Manhatten is the costliest neighbourhood group to live in NYC.
+20.   In Private room type Bedford-Stuyvesant	has highest number of properties as 2033, for Entire home/apt room type Williamsburg has highest number of properties as 1889, and for Shared room type	Hell's Kitchen has highest number of properties as 99. 		
+21.   In Medium	price category Williamsburg	has highest number of properties as 3740, for Low	price category category Bedford-Stuyvesant	has highest number of properties as 661, and for High	price category Upper West Side	has highest number of properties as 18.
+22.   Based on average price Fort Wadsworth is the most costliest neighbourhood in all of the neighbourhood followed by Woodrow, Tribeca, Sea Gate, and Riverdale.
+23.   Based on average price Bull's Head is the least costliest neighbourhood in all of the neighbourhood followed by Hunts Point, Tremont, Soundview, and New Drop.
+24.   Neighbourhood Fort Wadsworth(Highest) has 1590% higher average price than Bull's Head(least).
+25.   Based on average number of reviews Silver Lake is the most reviewed neighbourhood in all of the neighbourhood followed by East Elmhurst, Richmondtown, Elitingville, and Mount Eden.
+26.   The heatmap and pairplot indicate that there is no significant correlation between the numerical columns of the dataset. The values in the numerical columns appear to be independent of each other and not strongly related to the values in the other columns.
+27.   Overall, the Airbnb NYC 2019 dataset provides valuable insights into the short-term rental market in New York City. The dataset can be used by hosts to better understand their competition and adjust their pricing strategy, improve occupancy rate, and enhance customer experience.
+
 
 ## **Solution to Business Objective**
 
